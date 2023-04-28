@@ -34,7 +34,7 @@ body {
   -webkit-mask-image: url(./img/person-circle.svg);
   mask-image: url(./img/person-circle.svg);
   -webkit-mask-size: cover;
-  mask-size: contain;
+  mask-size: cover;
   border-radius: 50%;
 }
 .container-login > p {
