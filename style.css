@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.889),
+      rgba(255, 255, 255, 0.889)
+    ),
+    url(./img/s-tsuchiya-2UpH_leC9vc-unsplash.jpg);
+  background-size: cover;
+  object-fit: cover;
+}
