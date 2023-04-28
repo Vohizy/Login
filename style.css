@@ -70,6 +70,7 @@ button {
   font-weight: 600;
   text-transform: uppercase;
   translate: 0 25px;
+  cursor: pointer;
 }
 .p {
   translate: 0 80px;
